@@ -28,8 +28,4 @@ git clone https://github.com/anonymousTJ667/simplogger.git
 
 cd KLogger
 
-chmod +x 
-
-bash linux_setup.sh
-
-python simplogger.py
+python3 simplogger.py
