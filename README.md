@@ -1,4 +1,4 @@
-# simplogger
+# simplogger (by TANISH JAMWAL)
 # Description
 Remote persistent 🔑Logger for Windows and Linux
 
