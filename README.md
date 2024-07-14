@@ -1,5 +1,5 @@
 # simplogger (by TANISH JAMWAL)
-#BYTEUPRISE Cybersecurity Internship
+# BYTEUPRISE Cybersecurity Internship
 # Description
 Remote persistent 🔑Logger for Windows and Linux
 
