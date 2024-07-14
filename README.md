@@ -2,6 +2,7 @@
 # BYTEUPRISE Cybersecurity Internship
 # Description
 Remote persistent 🔑Logger for Windows and Linux
+A Simple keylogger 
 
 # Features
 Logs keys pressed on keyboard
